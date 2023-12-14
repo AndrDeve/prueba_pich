@@ -3,4 +3,4 @@
   functions = "netlify/functions/submit-form.php"
 
 [build.environment]
-  PHP_VERSION = "8.2"
+  PHP_VERSION = "7.4"
